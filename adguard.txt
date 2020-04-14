@@ -28511,15 +28511,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webvisor.ru^
 ||wwgate.ru^
 ||zero.kz^
-! Serbian
 ||midas-network.com^
-! Slovak
 ||algopine.com^
 ||data.caroda.io^
 ||idot.cz^
 ||pocitadlo.sk^
 ||toplist.sk^
-! Spanish
 ||botize.com^
 ||ccrtvi.com^
 ||certifica.com^
@@ -28540,7 +28537,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mabaya.com^
 ||micodigo.com^
 ||seedtag.com^
-! Swedish
 ||adsettings.com^
 ||adten.eu^
 ||adtlgc.com^
@@ -28562,12 +28558,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vastpaketet.se^
 ||webserviceaward.com^
 ||yieldbird.com^
-! Thai
 ||d-stats.com^
 ||tracker.stats.in.th^
 ||truehits.net^
 ||truehits3.gits.net.th^
-! Turkish
 ||onlinewebstat.com^
 ||realist.gen.tr^
 ||sayyac.com^
@@ -28576,7 +28570,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||visilabs.net^
 ||webservis.gen.tr^
 ||zirve100.com^
-! Ukranian
 ||getaim.info^
 ||holder.com.ua^
 ||mediatraffic.com.ua^
@@ -28585,10 +28578,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uapoisk.net^
 ||weblog.com.ua^
 ||gostats.vn^
-!
-! Source name: EasyPrivacy third-party tracking servers
-! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-!
 ||100widgets.com^
 ||51network.com^
 ||a.mobify.com^
