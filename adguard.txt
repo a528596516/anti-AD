@@ -5832,11 +5832,6 @@ www.llllllllllll.net^
 ||js.bulkhentai.com^
 ||script.hqpass.com^
 ||d2t2on23g4lty1.cloudfront.net^
-!
-! Source name: AdGuard Turkish filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
-!
-!
 ||frknseo.info^
 ||jeoldkhy.com^
 ||asdqweq.com^
@@ -7948,7 +7943,6 @@ www.llllllllllll.net^
 ||zrnedsainsteady.info^
 ||zroundancez.site^
 ||zudrurta.com^
-! Third-party
 ||0azx1.com^
 ||0emn.com^
 ||0fmm.com^
@@ -13208,11 +13202,8 @@ www.llllllllllll.net^
 ||vfghc.com^
 ||wasshoneaningar.pro^
 ||yvsystem.com^
-! IP addresses
-! Dodgy skimmers
 ||bootstrap-js.com^
 ||g-statistic.com^
-! hilltopads
 ||affroba.net^
 ||afriflatry.co^
 ||aution.pro^
@@ -13287,13 +13278,11 @@ www.llllllllllll.net^
 ||wicktrown.co^
 ||xleebhxalb.com^
 ||xvika.com^
-! adsterra
 ||2p9fyvx.com^
 ||bjcvibh.com^
 ||bxnvdau.com^
 ||g5fzq2l.com^
 ||sa2xskt.com^
-! Propellerads
 ||0026645142c89aeb1.com^
 ||006a039c957c142bb.com^
 ||00aaa2d81c1d174.com^
@@ -13930,7 +13919,6 @@ www.llllllllllll.net^
 ||turngrind.com^
 ||windowmentaria.com^
 ||xilbalar.com^
-! Tag adservers
 ||1el-1el-fie.com^
 ||1elllwrite.com^
 ||1han-rit-ten.com^
@@ -14056,7 +14044,6 @@ www.llllllllllll.net^
 ||zip-zip-swan.com^
 ||zlacraft.com^
 ||zorango.com^
-! Mobile
 ||adbuddiz.com^
 ||adcolony.com^
 ||adiquity.com^
@@ -14087,7 +14074,6 @@ www.llllllllllll.net^
 ||wapdollar.in^
 ||waptrick.com^
 ||yieldmo.com^
-! Admiral
 ||acrididae.com^
 ||agreeableprice.com^
 ||bedsbreath.com^
@@ -14100,10 +14086,8 @@ www.llllllllllll.net^
 ||ritzysponge.com^
 ||similarsabine.com^
 ||smilingsock.com^
-! Non-English (instead of whitelisting ads)
 ||adhood.com^
 ||atresadvertising.com^
-! admeasures.com
 ||0a0qetx8et.com^
 ||0gctp5ht.top^
 ||0j7z9aw6.top^
@@ -14419,7 +14403,6 @@ www.llllllllllll.net^
 ||zjo0tjqpm1.com^
 ||zrav2wkbrs.com^
 ||zu4l167j77.com^
-! popads.net
 ||aabmxezph.com^
 ||aagmbroxruno.com^
 ||aaitudxr.com^
@@ -22139,7 +22122,6 @@ www.llllllllllll.net^
 ||zzwajufm.com^
 ||zzxlukodff.com^
 ||zzxosget.com^
-! Chameleon Advertising Technologies
 ||addonsmash.com^
 ||axeldivision.com^
 ||chameleon.ad^
@@ -22154,7 +22136,6 @@ www.llllllllllll.net^
 ||yatab.net^
 ||inter1ads.com^
 ||vicegnem.click^
-! "info" adservers
 ||adalgo.info^
 ||adwalte.info^
 ||antotu.info^
@@ -22218,7 +22199,6 @@ www.llllllllllll.net^
 ||urmilan.info^
 ||vatname.info^
 ||yatnozin.info^
-! uponit adservers
 ||acrabakasaka.com^
 ||ajkelra.com^
 ||akailoparzapi.com^
@@ -22396,7 +22376,6 @@ www.llllllllllll.net^
 ||zortinah.com^
 ||zozolilla.com^
 ||zukabota.com^
-!
 ||arana.pw^
 ||beiren.xyz^
 ||daecan.xyz^
@@ -24422,7 +24401,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||w88.espn.com^
 ||xtag.autotrader.com^
 ||xtag.kbb.com^
-! Tiktok app
 ||log.musical.ly^
 ||log2.musical.ly^
 ||frontier.musical.ly^
@@ -24430,8 +24408,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
 ||trackersimulator.org^
-!
-! For apps
 ||analytics.kidoz.net^
 ||track.tenjin.com^
 ||tracker.mtrtb.com^
@@ -24442,15 +24418,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||plbslog.umeng.com^
 ||analysys.cn^
 ||logs.supersonic.com^
-!
-! Appsflyer
-!
 ||api.appsflyer.com^
 ||register.appsflyer.com^
 ||events.appsflyer.com^
 ||track.appsflyer.com^
-!+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-!
 ||sq.requestads.com^
 ||insight.ucweb.com^
 ||gjapplog.ucweb.com^
@@ -27452,7 +27423,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xmrpool.net^
 ||yuebofa.cc^
 ||zlx.com.br^
-! Admiral
 ||6ldu6qa.com^
 ||absorbingband.com^
 ||absorbingcorn.com^
@@ -27655,11 +27625,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||untidyrice.com^
 ||womanear.com^
 ||zlp6s.pw^
-!
-! Source name: EasyPrivacy international tracking servers
-! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
-!
-! German
 ||123-counter.de^
 ||12mnkys.com^
 ||24log.de^
@@ -27944,7 +27909,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xplosion.de^
 ||yoochoose.net^
 ||zaehler.tv^
-! French
 ||123compteur.com^
 ||7x4.fr^
 ||7x5.fr^
@@ -28026,11 +27990,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wysistat.com^
 ||x-traceur.com^
 ||ywywjrlbsuv.com^
-! Armenian
 ||circle.am^
-! Belarusian
 ||call-tracking.by^
-! Bulgarian
 ||trafit.com^
 ||tyxo.bg^
 ||50bang.org^
@@ -28105,10 +28066,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||youle55.com^
 ||zampda.net^
 ||ztcadx.com^
-! Croatian
 ||dotmetrics.net^
 ||xclaimwords.net^
-! Czech
 ||affilbox.cz^
 ||analights.com^
 ||itop.cz^
@@ -28120,7 +28079,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pocitadlo.cz^
 ||programmatic.cz^
 ||semnicneposilejte.cz^
-! Danish
 ||agillic.eu^
 ||andersenit.dk^
 ||chart.dk^
@@ -28140,7 +28098,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetric.dk^
 ||tns-gallup.dk^
 ||zipstat.dk^
-! Dutch
 ||active24stats.nl^
 ||istats.nl^
 ||metriweb.be^
@@ -28150,9 +28107,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||svtrd.com^
 ||synovite-scripts.com^
 ||traffic4u.nl^
-! Estonian
 ||counter.ok.ee^
-! Finnish
 ||frosmo.com^
 ||gallupnet.fi^
 ||inpref.com^
@@ -28163,9 +28118,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.www.fi^
 ||tracking*.euroads.fi^
 ||vihtori-analytics.fi^
-! Greek
 ||linkwi.se^
-! Hebrew
 ||erate.co.il^
 ||fortvision.com^
 ||hetchi.com^
@@ -28173,17 +28126,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mimgoal.com^
 ||nepohita.com^
 ||ritogaga.com^
-! Hungarian
 ||gpr.hu^
 ||hirmatrix.hu^
 ||mystat.hu^
 ||p24.hu^
 ||ripost.services^
-! Icelandic
 ||modernus.is^
-! Indonesian
 ||analytic.rocks^
-! Italian
 ||0stats.com^
 ||accessi.it^
 ||avstat.it^
@@ -28236,7 +28185,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||whoseesyou.com^
 ||wstatslive.com^
 ||zt-dst.com^
-! Japanese
 ||accesstrade.net^
 ||admatrix.jp^
 ||af-z.jp^
@@ -28299,7 +28247,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ukw.jp^
 ||wonder-ma.com^
 ||ziyu.net^
-! Korean
 ||adpick.co.kr^
 ||adtive.com^
 ||aicontents.net^
@@ -28308,7 +28255,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logger.co.kr^
 ||oevery.com^
 ||tenping.kr^
-! Latvian
 ||cms.lv^
 ||erotop.lv^
 ||mcloudglobal.com^
@@ -28321,19 +28267,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||topsite.lv^
 ||webstatistika.lv^
 ||wos.lv^
-! Lithuanian
 ||easy.lv^
 ||maxtraffic.com^
 ||mxapis.com^
 ||reitingas.lt^
 ||visits.lt^
 ||www.hey.lt^
-! Norwegian
 ||de17a.com^
 ||trafikkfondet.no^
 ||webstat.no^
 ||xtractor.no^
-! Persian
 ||amarfa.ir^
 ||persianstat.com^
 ||persianstat.ir^
@@ -28341,7 +28284,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webgozar.com^
 ||webgozar.ir^
 ||yektanet.com^
-! Polish
 ||adschoom.com^
 ||adstat.4u.pl^
 ||caanalytics.com^
@@ -28372,7 +28314,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tagcdn.com^
 ||volvelle.tech^
 ||way2traffic.com^
-! Portuguese
 ||ad5track.com^
 ||clearsale.com.br^
 ||denakop.com^
@@ -28383,7 +28324,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sambaads.com^
 ||tailtarget.com^
 ||trugaze.io^
-! Romanian
 ||2iui01.com^
 ||2parale.ro^
 ||2performant.com^
@@ -29557,7 +29497,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wstat.wibiya.com^
 ||x.weather.com^
 ||zdlogs.sphereup.com^
-! uBO-CNAME (Specific whitelists)
 ||go.techtarget.com^
 ||trk.techtarget.com^
 ||users.techtarget.com^
@@ -29570,7 +29509,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sgphctileh-a.akamaihd.net^
 ||uhytajrtpo-a.akamaihd.net^
 ||zvsuhljiha-a.akamaihd.net^
-! fastly
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
 ||nsg.symantec.com^
@@ -29710,10 +29648,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||visitping.rossel.be^
 ||wrapper.lemde.fr^
 ||zebestof.com^
-! Croatian
 ||aff*.kolektiva.net^
 ||analytics.styria.hr^
-! Chinese
 -logging.nextmedia.com^
 ||adv-sv-stat.focus.cn^
 ||analytics.21cn.com^
@@ -30137,7 +30073,6 @@ vkcdnservice.appspot.com^
 ||xbasfbno.info^
 ||xy.nullrefexcep.com^
 ||yrdrtzmsmt.com^
-! don't add `^` to these rules
 ||jshosting.bid
 ||freecontent.date
 ||hostingcloud.download
